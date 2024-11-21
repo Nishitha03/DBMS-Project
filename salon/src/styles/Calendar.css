@@ -1,0 +1,12 @@
+/* Style for unavailable days */
+.unavailable {
+    background-color: red;
+    color: white;
+  }
+  
+  /* Style for available days */
+  .available {
+    background-color: green;
+    color: white;
+  }
+  
